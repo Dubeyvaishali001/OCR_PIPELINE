@@ -30,18 +30,18 @@ IMAGE → Preprocessing → Deskew → Crop → OCR Model → Text Output
 
 <img width="1474" height="530" alt="image" src="https://github.com/user-attachments/assets/805ea799-d28f-4991-a2dd-13e7ce1a8b6c" />
 
+<img width="759" height="350" alt="image" src="https://github.com/user-attachments/assets/f8e93b23-78dd-4679-b0e6-7a75f665ea10" />
+<img width="472" height="337" alt="image" src="https://github.com/user-attachments/assets/c0f1f3c8-60ae-4345-baf9-fdccbb9a4e74" />
 
-word_1_leve_Yeu.png → love you
-word_2_Foio.png → plaists ,
-word_2_rumma.png → " conservanoscope .
-word_3_(Jill.png → devil
-word_3_No.png → no
-word_4_Gaio.png → gain
-word_4_make.png → committee .
-word_5_Yee.png → stores
-word_6_pSous.png → peroudi
-word_7_Sne.png → omen
-word_8_day.png → was
+<img width="246" height="213" alt="image" src="https://github.com/user-attachments/assets/85719b1f-39a3-44a7-a48d-be65151dc785" />
+
+<img width="599" height="317" alt="image" src="https://github.com/user-attachments/assets/543c8734-bf67-4837-a904-3cba0090e92b" />
+
+
+word_1.png → No
+word_2.png → Pain
+word_3.png → No
+word_4.png → Gain
 
 
 
